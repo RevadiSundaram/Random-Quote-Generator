@@ -1,0 +1,37 @@
+body {
+  background-color: #edeade;
+  justify-content: center;
+
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+}
+.heading {
+  margin: 50px;
+}
+.box {
+  border: 2px solid transparent;
+  border-radius: 2px;
+  padding: 20px;
+  margin: auto;
+  width: 35%;
+  background-color: #ffffff;
+}
+.quote {
+  font-size: 16px;
+}
+.author {
+  font-size: 10px;
+}
+.button {
+  color: black;
+  border: none;
+  cursor: pointer;
+  padding: 10px 15px;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+h1 {
+  font-weight: lighter;
+}
